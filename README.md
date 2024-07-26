@@ -3,8 +3,8 @@
 **NotCoin Telegram WebApp UI Clone**
 
 <p style="text-align:center;" align="center">
- 
-  <img align="center" src=" https://github.com/AminHasanloo/NotCoinCloneAppUi/blob/main/NotCoin.png?raw=true" width="300px" height="300px"/>
+
+  <img align="center" src="https://github.com/AminHasanloo/NotCoinCloneAppUi/blob/main/NotCoin.png?raw=true" width="300px" height="300px"/>
 </p>
 
 <h1 align="center">NotCoin Mini App Clone</h1>
