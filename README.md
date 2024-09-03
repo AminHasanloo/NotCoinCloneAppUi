@@ -47,7 +47,8 @@
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Malith-Rukshan/NotCoin-Mini-App-Clone.git
+    
+    git clone https://github.com/AminHasanloo/NotCoinCloneAppUi.git
     cd NotCoin-Mini-App-Clone
     ```
 
